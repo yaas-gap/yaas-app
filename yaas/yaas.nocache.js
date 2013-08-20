@@ -1,9 +1,9 @@
 function yaas(){
-  var $intern_0 = '', $intern_36 = '" for "gwt:onLoadErrorFn"', $intern_34 = '" for "gwt:onPropertyErrorFn"', $intern_21 = '"><\/script>', $intern_10 = '#', $intern_62 = '.cache.html', $intern_12 = '/', $intern_24 = '//', $intern_55 = '06ABB3BE1507B5F4D074DB44D6F75A95', $intern_56 = '5F3565951BBAE473316ECF792A5726F9', $intern_57 = '7D8512EB40530EB5D0C0BA4F53F8C2D9', $intern_58 = '8128CCE61044F6B3385AD8BD091F4107', $intern_61 = ':', $intern_28 = '::', $intern_70 = '<script defer="defer">yaas.onInjectionDone(\'yaas\')<\/script>', $intern_20 = '<script id="', $intern_31 = '=', $intern_11 = '?', $intern_33 = 'Bad handler "', $intern_59 = 'D829EFBDD6BEEB7F314CCAF6B3A2745D', $intern_69 = 'DOMContentLoaded', $intern_60 = 'EC514803CC1D996CBADCDF02E43F7033', $intern_22 = 'SCRIPT', $intern_19 = '__gwt_marker_yaas', $intern_23 = 'base', $intern_15 = 'baseUrl', $intern_4 = 'begin', $intern_3 = 'bootstrap', $intern_14 = 'clear.cache.gif', $intern_30 = 'content', $intern_9 = 'end', $intern_49 = 'gecko', $intern_50 = 'gecko1_8', $intern_5 = 'gwt.codesvr=', $intern_6 = 'gwt.hosted=', $intern_7 = 'gwt.hybrid', $intern_63 = 'gwt/standard/standard.css', $intern_35 = 'gwt:onLoadErrorFn', $intern_32 = 'gwt:onPropertyErrorFn', $intern_29 = 'gwt:property', $intern_68 = 'head', $intern_53 = 'hosted.html?yaas', $intern_67 = 'href', $intern_48 = 'ie6', $intern_47 = 'ie8', $intern_46 = 'ie9', $intern_37 = 'iframe', $intern_13 = 'img', $intern_38 = "javascript:''", $intern_64 = 'link', $intern_52 = 'loadExternalRefs', $intern_25 = 'meta', $intern_40 = 'moduleRequested', $intern_8 = 'moduleStartup', $intern_45 = 'msie', $intern_26 = 'name', $intern_42 = 'opera', $intern_39 = 'position:absolute;width:0;height:0;border:none', $intern_65 = 'rel', $intern_44 = 'safari', $intern_16 = 'script', $intern_54 = 'selectingPermutation', $intern_2 = 'startup', $intern_66 = 'stylesheet', $intern_18 = 'undefined', $intern_51 = 'unknown', $intern_41 = 'user.agent', $intern_43 = 'webkit', $intern_1 = 'yaas', $intern_17 = 'yaas.nocache.js', $intern_27 = 'yaas::';
+  var $intern_0 = '', $intern_79 = '\n-', $intern_36 = '" for "gwt:onLoadErrorFn"', $intern_34 = '" for "gwt:onPropertyErrorFn"', $intern_66 = '"<script src=\\"', $intern_21 = '"><\/script>', $intern_10 = '#', $intern_78 = ');', $intern_70 = '-\n', $intern_80 = '-><\/scr', $intern_67 = '.cache.js\\"><\/scr" + "ipt>"', $intern_12 = '/', $intern_24 = '//', $intern_51 = '1E45591732D3457918D522867ABADA0F', $intern_52 = '3C350C49C81C7A4069CC4FCAB6AABC83', $intern_53 = '57E147F3D3E72BE02F2034E2CBA298A5', $intern_54 = '595D25034F0A317138B4E9E450E32D05', $intern_55 = '72637B09C59A166F129B314D10BE5733', $intern_57 = ':', $intern_28 = '::', $intern_68 = '<scr', $intern_20 = '<script id="', $intern_31 = '=', $intern_11 = '?', $intern_56 = 'A2BEFFD05AA62C0B80FF4AD00E46C82C', $intern_33 = 'Bad handler "', $intern_48 = 'Cross-site hosted mode not yet implemented. See issue ', $intern_64 = 'DOMContentLoaded', $intern_22 = 'SCRIPT', $intern_19 = '__gwt_marker_yaas', $intern_23 = 'base', $intern_15 = 'baseUrl', $intern_4 = 'begin', $intern_3 = 'bootstrap', $intern_14 = 'clear.cache.gif', $intern_30 = 'content', $intern_77 = 'document.write(', $intern_9 = 'end', $intern_73 = 'evtGroup: "loadExternalRefs", millis:(new Date()).getTime(),', $intern_75 = 'evtGroup: "moduleStartup", millis:(new Date()).getTime(),', $intern_45 = 'gecko', $intern_46 = 'gecko1_8', $intern_5 = 'gwt.codesvr=', $intern_6 = 'gwt.hosted=', $intern_7 = 'gwt.hybrid', $intern_58 = 'gwt/standard/standard.css', $intern_35 = 'gwt:onLoadErrorFn', $intern_32 = 'gwt:onPropertyErrorFn', $intern_29 = 'gwt:property', $intern_63 = 'head', $intern_62 = 'href', $intern_49 = 'http://code.google.com/p/google-web-toolkit/issues/detail?id=2079', $intern_44 = 'ie6', $intern_43 = 'ie8', $intern_42 = 'ie9', $intern_13 = 'img', $intern_81 = 'ipt>', $intern_69 = 'ipt><!-', $intern_59 = 'link', $intern_65 = 'loadExternalRefs', $intern_25 = 'meta', $intern_72 = 'moduleName:"yaas", sessionId:window.__gwtStatsSessionId, subSystem:"startup",', $intern_8 = 'moduleStartup', $intern_41 = 'msie', $intern_26 = 'name', $intern_38 = 'opera', $intern_60 = 'rel', $intern_40 = 'safari', $intern_16 = 'script', $intern_50 = 'selectingPermutation', $intern_2 = 'startup', $intern_61 = 'stylesheet', $intern_74 = 'type: "end"});', $intern_76 = 'type: "moduleRequested"});', $intern_18 = 'undefined', $intern_47 = 'unknown', $intern_37 = 'user.agent', $intern_39 = 'webkit', $intern_71 = 'window.__gwtStatsEvent && window.__gwtStatsEvent({', $intern_1 = 'yaas', $intern_17 = 'yaas.nocache.js', $intern_27 = 'yaas::';
   var $wnd = window, $doc = document, $stats = $wnd.__gwtStatsEvent?function(a){
     return $wnd.__gwtStatsEvent(a);
   }
-  :null, $sessionId = $wnd.__gwtStatsSessionId?$wnd.__gwtStatsSessionId:null, scriptsDone, loadDone, bodyDone, base = $intern_0, metaProps = {}, values = [], providers = [], answers = [], softPermutationId = 0, onLoadErrorFunc, propertyErrorFunc;
+  :null, $sessionId = $wnd.__gwtStatsSessionId?$wnd.__gwtStatsSessionId:null, gwtOnLoad, bodyDone, base = $intern_0, metaProps = {}, values = [], providers = [], answers = [], softPermutationId = 0, onLoadErrorFunc, propertyErrorFunc;
   $stats && $stats({moduleName:$intern_1, sessionId:$sessionId, subSystem:$intern_2, evtGroup:$intern_3, millis:(new Date).getTime(), type:$intern_4});
   if (!$wnd.__gwt_stylesLoaded) {
     $wnd.__gwt_stylesLoaded = {};
@@ -27,17 +27,8 @@ function yaas(){
   }
 
   function maybeStartModule(){
-    if (scriptsDone && loadDone) {
-      var iframe = $doc.getElementById($intern_1);
-      var frameWnd = iframe.contentWindow;
-      if (isHostedMode()) {
-        frameWnd.__gwt_getProperty = function(name){
-          return computePropValue(name);
-        }
-        ;
-      }
-      yaas = null;
-      frameWnd.gwtOnLoad(onLoadErrorFunc, $intern_1, base, softPermutationId);
+    if (gwtOnLoad && bodyDone) {
+      gwtOnLoad(onLoadErrorFunc, $intern_1, base, softPermutationId);
       $stats && $stats({moduleName:$intern_1, sessionId:$sessionId, subSystem:$intern_2, evtGroup:$intern_8, millis:(new Date).getTime(), type:$intern_9});
     }
   }
@@ -215,123 +206,93 @@ function yaas(){
     throw null;
   }
 
-  var frameInjected;
-  function maybeInjectFrame(){
-    if (!frameInjected) {
-      frameInjected = true;
-      var iframe = $doc.createElement($intern_37);
-      iframe.src = $intern_38;
-      iframe.id = $intern_1;
-      iframe.style.cssText = $intern_39;
-      iframe.tabIndex = -1;
-      $doc.body.appendChild(iframe);
-      $stats && $stats({moduleName:$intern_1, sessionId:$sessionId, subSystem:$intern_2, evtGroup:$intern_8, millis:(new Date).getTime(), type:$intern_40});
-      iframe.contentWindow.location.replace(base + initialHtml);
-    }
-  }
-
-  providers[$intern_41] = function(){
+  providers[$intern_37] = function(){
     var ua = navigator.userAgent.toLowerCase();
     var makeVersion = function(result){
       return parseInt(result[1]) * 1000 + parseInt(result[2]);
     }
     ;
     if (function(){
-      return ua.indexOf($intern_42) != -1;
+      return ua.indexOf($intern_38) != -1;
+    }
+    ())
+      return $intern_38;
+    if (function(){
+      return ua.indexOf($intern_39) != -1;
+    }
+    ())
+      return $intern_40;
+    if (function(){
+      return ua.indexOf($intern_41) != -1 && $doc.documentMode >= 9;
     }
     ())
       return $intern_42;
     if (function(){
-      return ua.indexOf($intern_43) != -1;
+      return ua.indexOf($intern_41) != -1 && $doc.documentMode >= 8;
     }
     ())
-      return $intern_44;
-    if (function(){
-      return ua.indexOf($intern_45) != -1 && $doc.documentMode >= 9;
-    }
-    ())
-      return $intern_46;
-    if (function(){
-      return ua.indexOf($intern_45) != -1 && $doc.documentMode >= 8;
-    }
-    ())
-      return $intern_47;
+      return $intern_43;
     if (function(){
       var result = /msie ([0-9]+)\.([0-9]+)/.exec(ua);
       if (result && result.length == 3)
         return makeVersion(result) >= 6000;
     }
     ())
-      return $intern_48;
+      return $intern_44;
     if (function(){
-      return ua.indexOf($intern_49) != -1;
+      return ua.indexOf($intern_45) != -1;
     }
     ())
-      return $intern_50;
-    return $intern_51;
+      return $intern_46;
+    return $intern_47;
   }
   ;
-  values[$intern_41] = {gecko1_8:0, ie6:1, ie8:2, ie9:3, opera:4, safari:5};
-  yaas.onScriptLoad = function(){
-    if (frameInjected) {
-      loadDone = true;
-      maybeStartModule();
-    }
-  }
-  ;
-  yaas.onInjectionDone = function(){
-    scriptsDone = true;
-    $stats && $stats({moduleName:$intern_1, sessionId:$sessionId, subSystem:$intern_2, evtGroup:$intern_52, millis:(new Date).getTime(), type:$intern_9});
+  values[$intern_37] = {gecko1_8:0, ie6:1, ie8:2, ie9:3, opera:4, safari:5};
+  yaas.onScriptLoad = function(gwtOnLoadFunc){
+    yaas.onScriptLoad = null;
+    gwtOnLoad = gwtOnLoadFunc;
     maybeStartModule();
   }
   ;
+  if (isHostedMode()) {
+    alert($intern_48 + $intern_49);
+    return;
+  }
   processMetas();
   computeScriptBase();
+  $stats && $stats({moduleName:$intern_1, sessionId:$sessionId, subSystem:$intern_2, evtGroup:$intern_3, millis:(new Date).getTime(), type:$intern_50});
   var strongName;
-  var initialHtml;
-  if (isHostedMode()) {
-    if ($wnd.external && ($wnd.external.initModule && $wnd.external.initModule($intern_1))) {
-      $wnd.location.reload();
-      return;
+  try {
+    unflattenKeylistIntoAnswers([$intern_42], $intern_51);
+    unflattenKeylistIntoAnswers([$intern_40], $intern_52);
+    unflattenKeylistIntoAnswers([$intern_38], $intern_53);
+    unflattenKeylistIntoAnswers([$intern_44], $intern_54);
+    unflattenKeylistIntoAnswers([$intern_46], $intern_55);
+    unflattenKeylistIntoAnswers([$intern_43], $intern_56);
+    strongName = answers[computePropValue($intern_37)];
+    var idx = strongName.indexOf($intern_57);
+    if (idx != -1) {
+      softPermutationId = Number(strongName.substring(idx + 1));
+      strongName = strongName.substring(0, idx);
     }
-    initialHtml = $intern_53;
-    strongName = $intern_0;
   }
-  $stats && $stats({moduleName:$intern_1, sessionId:$sessionId, subSystem:$intern_2, evtGroup:$intern_3, millis:(new Date).getTime(), type:$intern_54});
-  if (!isHostedMode()) {
-    try {
-      unflattenKeylistIntoAnswers([$intern_46], $intern_55);
-      unflattenKeylistIntoAnswers([$intern_47], $intern_56);
-      unflattenKeylistIntoAnswers([$intern_50], $intern_57);
-      unflattenKeylistIntoAnswers([$intern_44], $intern_58);
-      unflattenKeylistIntoAnswers([$intern_48], $intern_59);
-      unflattenKeylistIntoAnswers([$intern_42], $intern_60);
-      strongName = answers[computePropValue($intern_41)];
-      var idx = strongName.indexOf($intern_61);
-      if (idx != -1) {
-        softPermutationId = Number(strongName.substring(idx + 1));
-        strongName = strongName.substring(0, idx);
-      }
-      initialHtml = strongName + $intern_62;
-    }
-     catch (e) {
-      return;
-    }
+   catch (e) {
+    return;
   }
   var onBodyDoneTimerId;
   function onBodyDone(){
     if (!bodyDone) {
       bodyDone = true;
-      if (!__gwt_stylesLoaded[$intern_63]) {
-        var l = $doc.createElement($intern_64);
-        __gwt_stylesLoaded[$intern_63] = l;
-        l.setAttribute($intern_65, $intern_66);
-        l.setAttribute($intern_67, base + $intern_63);
-        $doc.getElementsByTagName($intern_68)[0].appendChild(l);
+      if (!__gwt_stylesLoaded[$intern_58]) {
+        var l = $doc.createElement($intern_59);
+        __gwt_stylesLoaded[$intern_58] = l;
+        l.setAttribute($intern_60, $intern_61);
+        l.setAttribute($intern_62, base + $intern_58);
+        $doc.getElementsByTagName($intern_63)[0].appendChild(l);
       }
       maybeStartModule();
       if ($doc.removeEventListener) {
-        $doc.removeEventListener($intern_69, onBodyDone, false);
+        $doc.removeEventListener($intern_64, onBodyDone, false);
       }
       if (onBodyDoneTimerId) {
         clearInterval(onBodyDoneTimerId);
@@ -340,22 +301,21 @@ function yaas(){
   }
 
   if ($doc.addEventListener) {
-    $doc.addEventListener($intern_69, function(){
-      maybeInjectFrame();
+    $doc.addEventListener($intern_64, function(){
       onBodyDone();
     }
     , false);
   }
   var onBodyDoneTimerId = setInterval(function(){
     if (/loaded|complete/.test($doc.readyState)) {
-      maybeInjectFrame();
       onBodyDone();
     }
   }
   , 50);
   $stats && $stats({moduleName:$intern_1, sessionId:$sessionId, subSystem:$intern_2, evtGroup:$intern_3, millis:(new Date).getTime(), type:$intern_9});
-  $stats && $stats({moduleName:$intern_1, sessionId:$sessionId, subSystem:$intern_2, evtGroup:$intern_52, millis:(new Date).getTime(), type:$intern_4});
-  $doc.write($intern_70);
+  $stats && $stats({moduleName:$intern_1, sessionId:$sessionId, subSystem:$intern_2, evtGroup:$intern_65, millis:(new Date).getTime(), type:$intern_4});
+  var compiledScriptTag = $intern_66 + base + strongName + $intern_67;
+  $doc.write($intern_68 + $intern_69 + $intern_70 + $intern_71 + $intern_72 + $intern_73 + $intern_74 + $intern_71 + $intern_72 + $intern_75 + $intern_76 + $intern_77 + compiledScriptTag + $intern_78 + $intern_79 + $intern_80 + $intern_81);
 }
 
 yaas();
