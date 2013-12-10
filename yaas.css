@@ -27,13 +27,20 @@
     border-width:1px;
     background-color:white;
 }
+
+.gwt-Tree .gwt-TreeNode {
+    border-left: 1px solid #005284;
+    zoom: 1; // i wonder if this might make the buttons bigger 
+}
+
 .yaas-treeNode {
     font-weight: normal;
     /*color: gray;*/
     /*  vertical-align: top;
         border-style:solid;
         border-width:1px;*/
-    background-color:white;
+    background-color: aquamarine;
+    background-size: 15px 30px;
 }
 .yaas-treeNode-highlighted {
     font-weight: bold;
@@ -42,6 +49,8 @@
         border-style:solid;
         border-width:1px;*/
     background-color:#ccffff;
+    background-color: aquamarine;
+    background-size: 15px 15px;
 }
 .yaas-treeNodeDetails {
     border-style:solid;
